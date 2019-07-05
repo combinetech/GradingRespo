@@ -14,6 +14,7 @@ namespace EditingFromForGradingSystem
     public partial class Form1 : Form
     {
         public string asd = "";
+        public string sss = "";
         protected override CreateParams CreateParams
         {
             get
